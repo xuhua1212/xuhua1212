@@ -1,9 +1,7 @@
 
 
 
-**Hi there, I'm Xuxu 👋**
-
-**My blog, [https://Xutaotaotao.github.io](https://Xutaotaotao.github.io)**
+**Hi there, I'm Icode 👋**
 
 This is a place to write code.
 
@@ -20,6 +18,3 @@ This is a place to write code.
 
 <h5>Visitor count</h5>
 <img style="margin-top:18px" src="https://profile-counter.glitch.me/Xutaotaotao/count.svg" />
-
-<h5>Wechat</h5>
-<img src="https://xutaotaotao.github.io/wx_qr.jpg" />
